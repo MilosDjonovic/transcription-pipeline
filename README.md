@@ -3,6 +3,8 @@
 A robust, asynchronous transcription service built with FastAPI, OpenAI Whisper, and FFmpeg.
 
 ## Project Structure
+
+```txt
 transcription-pipeline/
 │
 ├── app/
@@ -16,6 +18,7 @@ transcription-pipeline/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+```
 
 ## 🚀 Design Decisions
 
